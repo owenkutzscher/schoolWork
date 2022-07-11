@@ -1,0 +1,5 @@
+Player, team, minutes played, field goals, field goals attempted, 3 pointers, 3 pointers attempted, Free throws made, free throws attempted, turnovers, team minutes played, team field goals attempted, team free throw attempts, team turnovers
+
+Lebron James,LAL,1504,422,823,104,285,178,255,168,17455,6197,1679,1095
+Nikola Jokic,DEN,2488,732,1293,92,237,342,394,222,17480,6422,1406,972
+Giannis Antetokounmpo,MIL,2013,626,1100,67,221,398,581,207,17330,6610,1539,995

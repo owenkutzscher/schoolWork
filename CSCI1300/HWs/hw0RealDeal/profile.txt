@@ -1,0 +1,13 @@
+﻿——Student Profile——
+
+
+Name:Owen Kutzscher
+
+
+Major/minor:Undeclared, going to be compSci
+
+
+Programming experience:1 year Python, one year Java Script
+
+
+What do you expect to learn in this course? How to do someC++ !

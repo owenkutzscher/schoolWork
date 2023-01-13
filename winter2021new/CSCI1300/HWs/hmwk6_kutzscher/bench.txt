@@ -1,0 +1,6 @@
+Player,Tm,PTS,FGA,FTA
+
+Precious Achiuwa,MIA,304,228,110
+Jaylen Adams,MIL,2,8,0
+Steven Adams,NOP,438,308,135
+Owen Kutzscher,NUT,420,69,368

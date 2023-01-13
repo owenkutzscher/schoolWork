@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/jovyan/assignment-6-owenkutzscher/build",
+  "command": "/usr/bin/g++    -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/run_tests.dir/tests/test.cpp.o -c /home/jovyan/assignment-6-owenkutzscher/tests/test.cpp",
+  "file": "/home/jovyan/assignment-6-owenkutzscher/tests/test.cpp"
+},
+{
+  "directory": "/home/jovyan/assignment-6-owenkutzscher/build",
+  "command": "/usr/bin/g++    -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/run_tests.dir/tests/test_helpers.cpp.o -c /home/jovyan/assignment-6-owenkutzscher/tests/test_helpers.cpp",
+  "file": "/home/jovyan/assignment-6-owenkutzscher/tests/test_helpers.cpp"
+},
+{
+  "directory": "/home/jovyan/assignment-6-owenkutzscher/build",
+  "command": "/usr/bin/g++    -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/run_tests.dir/code_1/ShowCatalog.cpp.o -c /home/jovyan/assignment-6-owenkutzscher/code_1/ShowCatalog.cpp",
+  "file": "/home/jovyan/assignment-6-owenkutzscher/code_1/ShowCatalog.cpp"
+},
+{
+  "directory": "/home/jovyan/assignment-6-owenkutzscher/build",
+  "command": "/usr/bin/g++    -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -g -o CMakeFiles/run_app_1.dir/app_1/main_1.cpp.o -c /home/jovyan/assignment-6-owenkutzscher/app_1/main_1.cpp",
+  "file": "/home/jovyan/assignment-6-owenkutzscher/app_1/main_1.cpp"
+},
+{
+  "directory": "/home/jovyan/assignment-6-owenkutzscher/build",
+  "command": "/usr/bin/g++    -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -g -o CMakeFiles/run_app_1.dir/code_1/ShowCatalog.cpp.o -c /home/jovyan/assignment-6-owenkutzscher/code_1/ShowCatalog.cpp",
+  "file": "/home/jovyan/assignment-6-owenkutzscher/code_1/ShowCatalog.cpp"
+}
+]

@@ -1,0 +1,69 @@
+PASSED TESTS, make sure our test is same as make rtest00 !!!!!!
+make test01
+make test02
+
+need to do wait fg and do fg I think then everything else pretty easy
+
+
+
+
+
+
+*** commands ***
+unix> make
+or
+make rtest01
+or
+make test01
+
+./shellAutograder.py
+
+
+./tsh
+*then run some test routines
+^Z
+[2]+ stopped // means job 2 stopped
+fg %2 // bring to fg
+
+& // bg
+
+find / 
+^lmaooo finds all the files in the whole thing.
+
+OUTPUTS ARE ALWAYS IN THE FG EVEN IF ITS BG
+AND CTRL C WONT STOP IT!!
+
+if we run 
+sleep 30 && cat && la && ......
+^that whole thing is 1 job. Shell maintins it.
+^^Inside this there are prosceses! (Job vs Proscess)
+
+can run kill command on bg proscesses tho
+
+
+
+
+make clean
+make
+./shellAutograder.py
+
+
+
+
+
+
+*** refrence shell ***
+
+./tshref
+^run him
+
+./myspin 300 &
+^literally just spins and runs! Good for testing
+
+fg %1
+^puts job #1 into bg
+
+bg %1
+
+/bin/ps a
+^list jobs idk

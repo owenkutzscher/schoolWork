@@ -1,0 +1,65 @@
+
+***COMMANDS***
+make clean
+make test
+^will reset all the images if I mess them up
+
+
+*** GENERAL CONCEPTS ***
+* spacial locality:
+    Cache will grab many elements at once so its easier to access say many elements of an array in a row if they are same position in memory
+
+* temporal locality:
+    If we grab an element and keep using it then it is in the cache and easy to grab
+
+* Oflags
+    Compiler does cool things
+
+
+
+
+
+
+
+
+
+
+
+
+
+***CHANGES WE MADE OUTSIDE OF FilterMain.cpp***
+
+
+ 
+
+***MakeFile
+
+CXXFLAGS= -g -Ofast
+*compiler is doing all the things it can to optimize
+
+-fopenmp
+*activates multithreading abilities for out pragma omp thing
+
+
+
+
+
+
+
+
+
+
+***cs1300bmp.h
+
+//
+// Maximum image size
+//
+#define MAX_DIM 1025
+^1024 is max size of an array!?!
+*not sure about that, but having an array smaller makes it take less time to run. Less iterations
+^^then use extra memory so cache isnt overwriting its self (it uses powers of 2) as much.
+
+
+int -> short color[MAX_COLORS][MAX_DIM][MAX_DIM];
+*short takes up less space than an int. Less memory to move and access
+

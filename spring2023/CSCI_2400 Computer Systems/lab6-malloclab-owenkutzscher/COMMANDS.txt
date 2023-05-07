@@ -1,0 +1,20 @@
+
+
+we modify the mm.c file
+Fill in the functions defined in the mm.h file
+
+
+
+
+TO TEST:
+make
+./mdriver -V
+
+OR
+make
+make clean idk lol. 
+./grade-malloc.py
+
+
+
+

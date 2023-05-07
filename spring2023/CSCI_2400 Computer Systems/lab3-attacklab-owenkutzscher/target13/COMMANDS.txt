@@ -1,0 +1,21 @@
+
+run solution file
+    ./hex2raw < ctarget.l1.txt | ./ctarget
+    ./hex2raw < rtarget.l4.txt | ./rtarget
+OR
+    ./hex2raw < ctarget.l2.txt > raw-phase2.txt
+    run < raw-phase2.txt
+
+convert .s to an assembly .d file
+    gcc -c level3.s
+    objdump -d level3.o > level3.d
+
+
+disassemble rtarget code into log1
+    objdump -d rtarget > log1 
+
+
+
+
+
+
